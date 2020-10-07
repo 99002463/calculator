@@ -1,5 +1,4 @@
 # calculator
- 
 * Application will work with different arithmatic operations.
 * Trigonometric Operations like sin,cos,tan,cot,sec,cosec.
 * Factorials.
